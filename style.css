@@ -1,0 +1,139 @@
+body {
+  background-color: rgba(240, 240, 240, 1);
+  background-image: url('images/background.jpeg');
+  background-size: cover;
+}
+
+.section {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.4);
+  margin: 20px auto;
+  text-align: center;
+  padding: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+  color: #DE040A;
+  text-shadow: 1px 1px 2px rgba(100, 100, 100, 1);
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  font-family: 'Patrick Hand', cursive;
+  letter-spacing: 3px;
+  font-size: 30px;
+}
+
+.table {
+  text-align: center;
+}
+
+.table td {
+  padding: 0 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#lewagon {
+  color: #c3413b;
+  font-weight: 700;
+}
+
+#lewagon:hover {
+  color: #DE040A;
+}
+
+.container {
+  width: 50%;
+  margin: 0 auto;
+  z-index: 10;
+}
+
+ul {
+  padding: 0px;
+  font-size: 30px;
+  margin: 0 auto
+}
+
+.section li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.section a {
+  color: rgba(200, 200, 200, 1);
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  text-align: justify;
+}
+
+#facebook:hover {
+  color: #4868ad;
+}
+
+#github:hover {
+  color: #25292e;
+}
+
+#instagram:hover {
+ color: #c83f7b;
+}
+
+#profile_links {
+  text-align: right;
+}
+
+#languages {
+  text-align: center;
+}
+
+#java:hover {
+ color: #ec9738;
+}
+
+#android:hover {
+  color: #a6bd4f;
+}
+
+#apple:hover {
+  color: #636363;
+}
+
+.language {
+  padding: 0 30px;
+}
+
+#ruby:hover {
+  color: #da5a5a;
+}
+
+#html:hover {
+  color: #ce5434;
+}
+
+#css:hover {
+  color: #296cae;
+}
+
+#js:hover {
+  color: #f2dd4f;
+}
+
+#profile {
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid rgba(230, 230, 230, 0.1);
+  box-shadow: 1px 1px rgba(230, 230, 230, 0.1);
+}
+
+.movie {
+  width: 150px;
+  height: 200px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
