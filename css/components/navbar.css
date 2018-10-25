@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  background: #3D5467;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar-tab {
+  padding: 15px 10px;
+  text-align: center;
+  color: white;
+  flex: 1 0 auto;
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+
+.navbar-tab:hover {
+  background: #3AAED8;
+}
